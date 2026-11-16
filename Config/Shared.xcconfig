@@ -1,0 +1,6 @@
+// One place to change the bundle id. Then rebuild (xcodegen does not need to run again).
+// Example: com.natalya.savessorter
+// Also put your Apple team id here so both targets stay signed after regenerating the project.
+DEVELOPMENT_TEAM =
+BUNDLE_ID_PREFIX = com.example.savessorter
+APP_GROUP_ID = group.$(BUNDLE_ID_PREFIX)
