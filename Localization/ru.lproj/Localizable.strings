@@ -1,0 +1,124 @@
+/* Russian user interface. */
+"tab.collection" = "Коллекция";
+"tab.review" = "Проверить";
+"tab.unparsed" = "Не разобрано";
+"tab.settings" = "Настройки";
+
+"collection.empty.title" = "Пока пусто";
+"collection.empty.body" = "В Instagram нажмите «Поделиться» и выберите Saves Sorter. Ссылка сохранится на этом iPhone и разложится по странам и городам.";
+"collection.pending" = "Ожидают разбора: %d";
+"collection.processing" = "Разбираем подписи…";
+"collection.withoutCity" = "Без города";
+"collection.subtitle" = "Городов: %d · Посетить: %d · Купить: %d";
+"collection.lexiconMissing" = "Не удалось загрузить справочник стран. Авторазбор отключён, записи можно разложить вручную.";
+
+"country.exportVisits" = "CSV всех мест";
+"country.subtitle" = "Посетить: %d · Купить: %d";
+
+"city.visit" = "Что посетить";
+"city.buy" = "Что купить";
+"city.empty.visit" = "В этом городе пока нет мест.";
+"city.empty.buy" = "В этом городе пока нет покупок.";
+"city.copy" = "Скопировать названия";
+"city.export" = "CSV для Google My Maps";
+"city.add" = "Добавить";
+"city.copied" = "Скопировано";
+
+"entry.open" = "Открыть пост";
+"entry.maps" = "Открыть в Google Maps";
+"entry.copy" = "Копировать название";
+"entry.delete" = "Удалить";
+"entry.edit" = "Изменить";
+"entry.deletePost" = "Удалить пост";
+"entry.shop" = "Где: %@";
+
+"review.confirm" = "Подтвердить";
+"review.edit" = "Исправить";
+"review.needsCity" = "Укажите город, чтобы запись попала в список города.";
+"review.tag" = "нужно проверить";
+"review.empty" = "Нет записей на проверку.";
+
+"unparsed.empty" = "Всё разобрано.";
+"unparsed.retry" = "Повторить";
+"unparsed.retryAll" = "Повторить все";
+"unparsed.manual" = "Разобрать вручную";
+"unparsed.open" = "Открыть ссылку";
+
+"failure.network" = "Не удалось скачать страницу.";
+"failure.unavailable" = "Пост недоступен или удалён.";
+"failure.empty" = "Подпись пустая.";
+"failure.nothing" = "В подписи не нашлось мест или покупок.";
+"failure.video" = "Похоже, список только в видео или по ссылке в профиле.";
+"failure.blocked" = "Сервис не отдал страницу. Попробуйте ещё раз позже.";
+"failure.detail" = "Подробности: %@";
+
+"search.prompt" = "Страна, город, место, покупка";
+"search.empty" = "Ничего не найдено";
+"search.visits" = "Что посетить";
+"search.buys" = "Что купить";
+"search.unparsed" = "Не разобрано";
+
+"settings.ai" = "Разбор с ИИ";
+"settings.ai.toggle" = "Спрашивать модель";
+"settings.ai.note" = "Выключено по умолчанию. Ключ хранится в Связке ключей на устройстве и уходит только выбранному провайдеру вместе с текстом подписи.";
+"settings.ai.provider" = "Провайдер";
+"settings.ai.openai" = "OpenAI";
+"settings.ai.anthropic" = "Anthropic";
+"settings.ai.model" = "Модель";
+"settings.ai.key" = "Ключ API";
+"settings.ai.save" = "Сохранить ключ";
+"settings.ai.delete" = "Удалить ключ";
+"settings.ai.saved" = "Ключ сохранён на устройстве";
+"settings.ai.missing" = "Ключ не задан";
+"settings.ai.error" = "Последняя ошибка ИИ: %@";
+
+"settings.data" = "Данные";
+"settings.exportJSON" = "Экспорт JSON";
+"settings.importJSON" = "Импорт JSON";
+"settings.exportVisits" = "CSV всех мест";
+"settings.exportBuys" = "CSV всех покупок";
+"settings.importChoice" = "Как импортировать резервную копию?";
+"settings.replace" = "Заменить коллекцию";
+"settings.merge" = "Добавить к текущей";
+"settings.importFailed" = "Не удалось прочитать файл";
+
+"settings.help" = "Как пользоваться";
+"settings.help.body" = "1. Соберите приложение на iPhone и подпишите оба таргета одной командой.\n2. В Instagram откройте сохранённый пост и нажмите «Поделиться».\n3. Выберите Saves Sorter. Если его нет в списке, нажмите «Ещё» и включите приложение.\n4. Откройте Saves Sorter: страна → город → «Что посетить» или «Что купить».\n5. Сомнительные записи попадут в «Проверить», пустые и битые ссылки — в «Не разобрано».";
+
+"settings.limits" = "Ограничения";
+"settings.limits.body" = "Метка локации и текст внутри видео недоступны: берётся только подпись страницы. Ссылка на обложку быстро протухает, поэтому картинка сохраняется на устройстве, если её удалось скачать. Правила иногда ошибаются — для этого есть проверка. Сервис может не отдать страницу. ИИ необязателен и выключен, пока вы сами не вставите ключ.";
+
+"settings.diag" = "Подпись";
+"settings.bundle" = "Идентификатор: %@";
+"settings.group" = "Группа: %@";
+"settings.fallback" = "App Group не найден. Расширение «Поделиться» не увидит записи. Проверьте capability App Groups у обоих таргетов.";
+"settings.process" = "Разобрать ожидающие";
+"settings.pending" = "Ожидают: %d";
+
+"editor.title.new" = "Новая запись";
+"editor.title.edit" = "Запись";
+"editor.kind" = "Тип";
+"editor.name" = "Название";
+"editor.shop" = "Магазин";
+"editor.country" = "Страна";
+"editor.city" = "Город";
+"editor.note" = "Заметка";
+"editor.save" = "Сохранить";
+"editor.caption" = "Подпись";
+"editor.name.placeholder" = "Место или что купить";
+"editor.shop.placeholder" = "Название магазина";
+"editor.country.placeholder" = "Например, Турция";
+"editor.city.placeholder" = "Например, Стамбул";
+
+"without.footer" = "Эти записи без города. Укажите город, и они появятся в стране.";
+
+"share.done" = "Готово";
+"share.none" = "Это не ссылка на пост или рилс.";
+"share.saved" = "Сохранено. Разбираем подпись…";
+"share.duplicate" = "Уже есть в коллекции.";
+"share.finished" = "Готово. Откройте Saves Sorter.";
+"share.working" = "Сохраняем…";
+
+"common.cancel" = "Отмена";
+"common.close" = "Закрыть";
+"common.more" = "Ещё";

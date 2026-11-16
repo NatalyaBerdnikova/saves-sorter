@@ -1,0 +1,4457 @@
+{
+  "countries": [
+    {
+      "id": "ru",
+      "ru": "Россия",
+      "en": "Russia",
+      "aliases": [
+        "РФ",
+        "Russian Federation",
+        "России",
+        "Россию",
+        "Россией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ua",
+      "ru": "Украина",
+      "en": "Ukraine",
+      "aliases": [
+        "Украины",
+        "Украине",
+        "Украину",
+        "Украиной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "by",
+      "ru": "Беларусь",
+      "en": "Belarus",
+      "aliases": [
+        "Беларуси",
+        "Белоруссия",
+        "Белоруссии",
+        "Белоруссию"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ee",
+      "ru": "Эстония",
+      "en": "Estonia",
+      "aliases": [
+        "Эстонии",
+        "Эстонию",
+        "Эстонией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lv",
+      "ru": "Латвия",
+      "en": "Latvia",
+      "aliases": [
+        "Латвии",
+        "Латвию",
+        "Латвией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lt",
+      "ru": "Литва",
+      "en": "Lithuania",
+      "aliases": [
+        "Литвы",
+        "Литве",
+        "Литву",
+        "Литвой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pl",
+      "ru": "Польша",
+      "en": "Poland",
+      "aliases": [
+        "Польши",
+        "Польше",
+        "Польшу",
+        "Польшей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "de",
+      "ru": "Германия",
+      "en": "Germany",
+      "aliases": [
+        "Германии",
+        "Германию",
+        "Германией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cz",
+      "ru": "Чехия",
+      "en": "Czechia",
+      "aliases": [
+        "Czech Republic",
+        "Чехии",
+        "Чехию",
+        "Чехией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sk",
+      "ru": "Словакия",
+      "en": "Slovakia",
+      "aliases": [
+        "Словакии",
+        "Словакию",
+        "Словакией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "at",
+      "ru": "Австрия",
+      "en": "Austria",
+      "aliases": [
+        "Австрии",
+        "Австрию",
+        "Австрией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ch",
+      "ru": "Швейцария",
+      "en": "Switzerland",
+      "aliases": [
+        "Швейцарии",
+        "Швейцарию",
+        "Швейцарией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "fr",
+      "ru": "Франция",
+      "en": "France",
+      "aliases": [
+        "Франции",
+        "Францию",
+        "Францией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "es",
+      "ru": "Испания",
+      "en": "Spain",
+      "aliases": [
+        "Испании",
+        "Испанию",
+        "Испанией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "it",
+      "ru": "Италия",
+      "en": "Italy",
+      "aliases": [
+        "Италии",
+        "Италию",
+        "Италией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pt",
+      "ru": "Португалия",
+      "en": "Portugal",
+      "aliases": [
+        "Португалии",
+        "Португалию",
+        "Португалией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nl",
+      "ru": "Нидерланды",
+      "en": "Netherlands",
+      "aliases": [
+        "Нидерландах",
+        "Нидерландов",
+        "Голландия",
+        "Голландии",
+        "Голландию",
+        "Голландией",
+        "Holland"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "be",
+      "ru": "Бельгия",
+      "en": "Belgium",
+      "aliases": [
+        "Бельгии",
+        "Бельгию",
+        "Бельгией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lu",
+      "ru": "Люксембург",
+      "en": "Luxembourg",
+      "aliases": [
+        "Люксембурга",
+        "Люксембурге",
+        "Люксембургу",
+        "Люксембургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "gb",
+      "ru": "Великобритания",
+      "en": "United Kingdom",
+      "aliases": [
+        "Англия",
+        "Англии",
+        "Англию",
+        "Англией",
+        "Британия",
+        "Британии",
+        "Британию",
+        "Britain",
+        "England",
+        "Scotland",
+        "Шотландия",
+        "Шотландии",
+        "Уэльс",
+        "Уэльсе",
+        "Великобритании",
+        "Великобританию",
+        "Великобританией"
+      ],
+      "caseAliases": [
+        "UK"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "ie",
+      "ru": "Ирландия",
+      "en": "Ireland",
+      "aliases": [
+        "Ирландии",
+        "Ирландию",
+        "Ирландией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "is",
+      "ru": "Исландия",
+      "en": "Iceland",
+      "aliases": [
+        "Исландии",
+        "Исландию",
+        "Исландией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "no",
+      "ru": "Норвегия",
+      "en": "Norway",
+      "aliases": [
+        "Норвегии",
+        "Норвегию",
+        "Норвегией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "se",
+      "ru": "Швеция",
+      "en": "Sweden",
+      "aliases": [
+        "Швеции",
+        "Швецию",
+        "Швецией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "fi",
+      "ru": "Финляндия",
+      "en": "Finland",
+      "aliases": [
+        "Финляндии",
+        "Финляндию",
+        "Финляндией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "dk",
+      "ru": "Дания",
+      "en": "Denmark",
+      "aliases": [
+        "Дании",
+        "Данию",
+        "Данией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "gr",
+      "ru": "Греция",
+      "en": "Greece",
+      "aliases": [
+        "Греции",
+        "Грецию",
+        "Грецией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tr",
+      "ru": "Турция",
+      "en": "Turkey",
+      "aliases": [
+        "Türkiye",
+        "Турции",
+        "Турцию",
+        "Турцией"
+      ],
+      "caseAliases": [
+        "Turkey"
+      ],
+      "enSensitive": true
+    },
+    {
+      "id": "cy",
+      "ru": "Кипр",
+      "en": "Cyprus",
+      "aliases": [
+        "Кипра",
+        "Кипре",
+        "Кипру",
+        "Кипром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mt",
+      "ru": "Мальта",
+      "en": "Malta",
+      "aliases": [
+        "Мальты",
+        "Мальте",
+        "Мальту",
+        "Мальтой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hr",
+      "ru": "Хорватия",
+      "en": "Croatia",
+      "aliases": [
+        "Хорватии",
+        "Хорватию",
+        "Хорватией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "me",
+      "ru": "Черногория",
+      "en": "Montenegro",
+      "aliases": [
+        "Черногории",
+        "Черногорию",
+        "Черногорией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "rs",
+      "ru": "Сербия",
+      "en": "Serbia",
+      "aliases": [
+        "Сербии",
+        "Сербию",
+        "Сербией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "si",
+      "ru": "Словения",
+      "en": "Slovenia",
+      "aliases": [
+        "Словении",
+        "Словению",
+        "Словенией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ba",
+      "ru": "Босния и Герцеговина",
+      "en": "Bosnia and Herzegovina",
+      "aliases": [
+        "Босния",
+        "Боснии",
+        "Боснию",
+        "Герцеговина",
+        "Герцеговине",
+        "Bosnia"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "al",
+      "ru": "Албания",
+      "en": "Albania",
+      "aliases": [
+        "Албании",
+        "Албанию",
+        "Албанией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bg",
+      "ru": "Болгария",
+      "en": "Bulgaria",
+      "aliases": [
+        "Болгарии",
+        "Болгарию",
+        "Болгарией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ro",
+      "ru": "Румыния",
+      "en": "Romania",
+      "aliases": [
+        "Румынии",
+        "Румынию",
+        "Румынией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hu",
+      "ru": "Венгрия",
+      "en": "Hungary",
+      "aliases": [
+        "Венгрии",
+        "Венгрию",
+        "Венгрией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "md",
+      "ru": "Молдова",
+      "en": "Moldova",
+      "aliases": [
+        "Молдовы",
+        "Молдове",
+        "Молдову",
+        "Молдовой",
+        "Молдавия",
+        "Молдавии"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ge",
+      "ru": "Грузия",
+      "en": "Georgia",
+      "aliases": [
+        "Грузии",
+        "Грузию",
+        "Грузией"
+      ],
+      "caseAliases": [
+        "Georgia"
+      ],
+      "enSensitive": true
+    },
+    {
+      "id": "am",
+      "ru": "Армения",
+      "en": "Armenia",
+      "aliases": [
+        "Армении",
+        "Армению",
+        "Арменией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "az",
+      "ru": "Азербайджан",
+      "en": "Azerbaijan",
+      "aliases": [
+        "Азербайджана",
+        "Азербайджане",
+        "Азербайджану",
+        "Азербайджаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kz",
+      "ru": "Казахстан",
+      "en": "Kazakhstan",
+      "aliases": [
+        "Казахстана",
+        "Казахстане",
+        "Казахстану",
+        "Казахстаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "uz",
+      "ru": "Узбекистан",
+      "en": "Uzbekistan",
+      "aliases": [
+        "Узбекистана",
+        "Узбекистане",
+        "Узбекистану",
+        "Узбекистаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kg",
+      "ru": "Кыргызстан",
+      "en": "Kyrgyzstan",
+      "aliases": [
+        "Киргизия",
+        "Киргизии",
+        "Киргизию",
+        "Кыргызстана",
+        "Кыргызстане",
+        "Кыргызстану",
+        "Кыргызстаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tj",
+      "ru": "Таджикистан",
+      "en": "Tajikistan",
+      "aliases": [
+        "Таджикистана",
+        "Таджикистане",
+        "Таджикистану",
+        "Таджикистаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cn",
+      "ru": "Китай",
+      "en": "China",
+      "aliases": [
+        "Китая",
+        "Китае",
+        "Китаю",
+        "Китаем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jp",
+      "ru": "Япония",
+      "en": "Japan",
+      "aliases": [
+        "Японии",
+        "Японию",
+        "Японией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kr",
+      "ru": "Южная Корея",
+      "en": "South Korea",
+      "aliases": [
+        "Корея",
+        "Корее",
+        "Кореи",
+        "Корею",
+        "Кореей",
+        "Южной Кореи",
+        "Южную Корею",
+        "Korea"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tw",
+      "ru": "Тайвань",
+      "en": "Taiwan",
+      "aliases": [
+        "Тайваня",
+        "Тайване",
+        "Тайваню"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "th",
+      "ru": "Таиланд",
+      "en": "Thailand",
+      "aliases": [
+        "Таиланда",
+        "Таиланде",
+        "Таиланду",
+        "Таиландом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vn",
+      "ru": "Вьетнам",
+      "en": "Vietnam",
+      "aliases": [
+        "Вьетнама",
+        "Вьетнаме",
+        "Вьетнаму",
+        "Вьетнамом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kh",
+      "ru": "Камбоджа",
+      "en": "Cambodia",
+      "aliases": [
+        "Камбоджи",
+        "Камбодже",
+        "Камбоджу",
+        "Камбоджей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "la",
+      "ru": "Лаос",
+      "en": "Laos",
+      "aliases": [
+        "Лаосе",
+        "Лаоса",
+        "Лаосу",
+        "Лаосом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "my",
+      "ru": "Малайзия",
+      "en": "Malaysia",
+      "aliases": [
+        "Малайзии",
+        "Малайзию",
+        "Малайзией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sg",
+      "ru": "Сингапур",
+      "en": "Singapore",
+      "aliases": [
+        "Сингапура",
+        "Сингапуре",
+        "Сингапуру",
+        "Сингапуром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "id",
+      "ru": "Индонезия",
+      "en": "Indonesia",
+      "aliases": [
+        "Индонезии",
+        "Индонезию",
+        "Индонезией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ph",
+      "ru": "Филиппины",
+      "en": "Philippines",
+      "aliases": [
+        "Филиппинах",
+        "Филиппин",
+        "Филиппинам"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "in",
+      "ru": "Индия",
+      "en": "India",
+      "aliases": [
+        "Индии",
+        "Индию",
+        "Индией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lk",
+      "ru": "Шри-Ланка",
+      "en": "Sri Lanka",
+      "aliases": [
+        "Шри-Ланки",
+        "Шри-Ланке",
+        "Шри-Ланку",
+        "Шри-Ланкей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "np",
+      "ru": "Непал",
+      "en": "Nepal",
+      "aliases": [
+        "Непале",
+        "Непала",
+        "Непалу",
+        "Непалом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mv",
+      "ru": "Мальдивы",
+      "en": "Maldives",
+      "aliases": [
+        "Мальдивах",
+        "Мальдив",
+        "Мальдивам"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ae",
+      "ru": "ОАЭ",
+      "en": "United Arab Emirates",
+      "aliases": [
+        "Эмираты",
+        "Эмиратах",
+        "Эмиратов",
+        "Emirates"
+      ],
+      "caseAliases": [
+        "UAE"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "qa",
+      "ru": "Катар",
+      "en": "Qatar",
+      "aliases": [
+        "Катаре",
+        "Катара",
+        "Катару",
+        "Катаром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sa",
+      "ru": "Саудовская Аравия",
+      "en": "Saudi Arabia",
+      "aliases": [
+        "Саудовской Аравии",
+        "Саудовскую Аравию"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "om",
+      "ru": "Оман",
+      "en": "Oman",
+      "aliases": [
+        "Омане",
+        "Омана",
+        "Оману",
+        "Оманом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bh",
+      "ru": "Бахрейн",
+      "en": "Bahrain",
+      "aliases": [
+        "Бахрейне",
+        "Бахрейна",
+        "Бахрейну",
+        "Бахрейном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "il",
+      "ru": "Израиль",
+      "en": "Israel",
+      "aliases": [
+        "Израиля",
+        "Израиле",
+        "Израилю",
+        "Израилем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jo",
+      "ru": "Иордания",
+      "en": "Jordan",
+      "aliases": [
+        "Иордании",
+        "Иорданию",
+        "Иорданией"
+      ],
+      "caseAliases": [
+        "Jordan"
+      ],
+      "enSensitive": true
+    },
+    {
+      "id": "eg",
+      "ru": "Египет",
+      "en": "Egypt",
+      "aliases": [
+        "Египета",
+        "Египете",
+        "Египету",
+        "Египетом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ma",
+      "ru": "Марокко",
+      "en": "Morocco",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tn",
+      "ru": "Тунис",
+      "en": "Tunisia",
+      "aliases": [
+        "Туниса",
+        "Тунисе",
+        "Тунису",
+        "Тунисом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "za",
+      "ru": "ЮАР",
+      "en": "South Africa",
+      "aliases": [],
+      "caseAliases": [
+        "RSA"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "ke",
+      "ru": "Кения",
+      "en": "Kenya",
+      "aliases": [
+        "Кении",
+        "Кению",
+        "Кенией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tz",
+      "ru": "Танзания",
+      "en": "Tanzania",
+      "aliases": [
+        "Танзании",
+        "Танзанию",
+        "Танзанией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mu",
+      "ru": "Маврикий",
+      "en": "Mauritius",
+      "aliases": [
+        "Маврикии",
+        "Маврикия",
+        "Маврикию"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sc",
+      "ru": "Сейшелы",
+      "en": "Seychelles",
+      "aliases": [
+        "Сейшелах",
+        "Сейшел",
+        "Сейшелам"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mx",
+      "ru": "Мексика",
+      "en": "Mexico",
+      "aliases": [
+        "Мексики",
+        "Мексике",
+        "Мексику",
+        "Мексикой",
+        "Мексикей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "us",
+      "ru": "США",
+      "en": "United States",
+      "aliases": [
+        "Америка",
+        "Америке",
+        "Америку",
+        "Америки",
+        "Америкой"
+      ],
+      "caseAliases": [
+        "USA"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "ca",
+      "ru": "Канада",
+      "en": "Canada",
+      "aliases": [
+        "Канады",
+        "Канаде",
+        "Канаду",
+        "Канадой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "br",
+      "ru": "Бразилия",
+      "en": "Brazil",
+      "aliases": [
+        "Бразилии",
+        "Бразилию",
+        "Бразилией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ar",
+      "ru": "Аргентина",
+      "en": "Argentina",
+      "aliases": [
+        "Аргентины",
+        "Аргентине",
+        "Аргентину",
+        "Аргентиной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cl",
+      "ru": "Чили",
+      "en": "Chile",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pe",
+      "ru": "Перу",
+      "en": "Peru",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cu",
+      "ru": "Куба",
+      "en": "Cuba",
+      "aliases": [
+        "Кубы",
+        "Кубе",
+        "Кубу",
+        "Кубой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "au",
+      "ru": "Австралия",
+      "en": "Australia",
+      "aliases": [
+        "Австралии",
+        "Австралию",
+        "Австралией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nz",
+      "ru": "Новая Зеландия",
+      "en": "New Zealand",
+      "aliases": [
+        "Новой Зеландии",
+        "Новую Зеландию",
+        "Зеландия",
+        "Зеландии"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mc",
+      "ru": "Монако",
+      "en": "Monaco",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ad",
+      "ru": "Андорра",
+      "en": "Andorra",
+      "aliases": [
+        "Андорры",
+        "Андорре",
+        "Андорру",
+        "Андоррой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mn",
+      "ru": "Монголия",
+      "en": "Mongolia",
+      "aliases": [
+        "Монголии",
+        "Монголию",
+        "Монголией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cr",
+      "ru": "Коста-Рика",
+      "en": "Costa Rica",
+      "aliases": [
+        "Коста-Рики",
+        "Коста-Рике",
+        "Коста-Рику",
+        "Коста-Рикей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    }
+  ],
+  "cities": [
+    {
+      "id": "moscow",
+      "country": "ru",
+      "ru": "Москва",
+      "en": "Moscow",
+      "aliases": [
+        "Москвы",
+        "Москве",
+        "Москву",
+        "Москвой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "spb",
+      "country": "ru",
+      "ru": "Санкт-Петербург",
+      "en": "Saint Petersburg",
+      "aliases": [
+        "Петербург",
+        "Питер",
+        "Питера",
+        "Питере",
+        "Питеру",
+        "St. Petersburg",
+        "Petersburg",
+        "Санкт-Петербурга",
+        "Санкт-Петербурге",
+        "Санкт-Петербургу",
+        "Санкт-Петербургом",
+        "Петербурга",
+        "Петербурге",
+        "Петербургу",
+        "Петербургом",
+        "Питером",
+        "Питеры",
+        "Питерой"
+      ],
+      "caseAliases": [
+        "СПБ",
+        "SPB"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "kazan",
+      "country": "ru",
+      "ru": "Казань",
+      "en": "Kazan",
+      "aliases": [
+        "Казани",
+        "Казанью"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sochi",
+      "country": "ru",
+      "ru": "Сочи",
+      "en": "Sochi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kaliningrad",
+      "country": "ru",
+      "ru": "Калининград",
+      "en": "Kaliningrad",
+      "aliases": [
+        "Калининграда",
+        "Калининграде",
+        "Калининграду",
+        "Калининградом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nn",
+      "country": "ru",
+      "ru": "Нижний Новгород",
+      "en": "Nizhny Novgorod",
+      "aliases": [
+        "Нижнем Новгороде",
+        "Нижнего Новгорода",
+        "Нижний"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ekb",
+      "country": "ru",
+      "ru": "Екатеринбург",
+      "en": "Yekaterinburg",
+      "aliases": [
+        "Екатеринбурга",
+        "Екатеринбурге",
+        "Екатеринбургу",
+        "Екатеринбургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nsk",
+      "country": "ru",
+      "ru": "Новосибирск",
+      "en": "Novosibirsk",
+      "aliases": [
+        "Новосибирска",
+        "Новосибирске",
+        "Новосибирску",
+        "Новосибирском"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vladivostok",
+      "country": "ru",
+      "ru": "Владивосток",
+      "en": "Vladivostok",
+      "aliases": [
+        "Владивостока",
+        "Владивостоке",
+        "Владивостоку",
+        "Владивостоком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "irkutsk",
+      "country": "ru",
+      "ru": "Иркутск",
+      "en": "Irkutsk",
+      "aliases": [
+        "Иркутска",
+        "Иркутске",
+        "Иркутску",
+        "Иркутском"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "baikal",
+      "country": "ru",
+      "ru": "Байкал",
+      "en": "Baikal",
+      "aliases": [
+        "Байкала",
+        "Байкале",
+        "Байкалу",
+        "Байкалом",
+        "Байкалы",
+        "Байкалой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "murmansk",
+      "country": "ru",
+      "ru": "Мурманск",
+      "en": "Murmansk",
+      "aliases": [
+        "Мурманска",
+        "Мурманске",
+        "Мурманску",
+        "Мурманском"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "krasnodar",
+      "country": "ru",
+      "ru": "Краснодар",
+      "en": "Krasnodar",
+      "aliases": [
+        "Краснодара",
+        "Краснодаре",
+        "Краснодару",
+        "Краснодаром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "yaroslavl",
+      "country": "ru",
+      "ru": "Ярославль",
+      "en": "Yaroslavl",
+      "aliases": [
+        "Ярославля",
+        "Ярославле",
+        "Ярославлю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "suzdal",
+      "country": "ru",
+      "ru": "Суздаль",
+      "en": "Suzdal",
+      "aliases": [
+        "Суздаля",
+        "Суздале",
+        "Суздалю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vladimir",
+      "country": "ru",
+      "ru": "Владимир",
+      "en": "Vladimir",
+      "aliases": [
+        "Владимира",
+        "Владимире",
+        "Владимиру",
+        "Владимиром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pskov",
+      "country": "ru",
+      "ru": "Псков",
+      "en": "Pskov",
+      "aliases": [
+        "Пскова",
+        "Пскове",
+        "Пскову",
+        "Псковом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vyborg",
+      "country": "ru",
+      "ru": "Выборг",
+      "en": "Vyborg",
+      "aliases": [
+        "Выборга",
+        "Выборге",
+        "Выборгу",
+        "Выборгом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "gelendzhik",
+      "country": "ru",
+      "ru": "Геленджик",
+      "en": "Gelendzhik",
+      "aliases": [
+        "Геленджика",
+        "Геленджике",
+        "Геленджику",
+        "Геленджиком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "anapa",
+      "country": "ru",
+      "ru": "Анапа",
+      "en": "Anapa",
+      "aliases": [
+        "Анапы",
+        "Анапе",
+        "Анапу",
+        "Анапой",
+        "Анапоя",
+        "Анапое",
+        "Анапою",
+        "Анапоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kizhi",
+      "country": "ru",
+      "ru": "Кижи",
+      "en": "Kizhi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kyiv",
+      "country": "ua",
+      "ru": "Киев",
+      "en": "Kyiv",
+      "aliases": [
+        "Києва",
+        "Києві",
+        "Київ",
+        "Киева",
+        "Киеве",
+        "Киеву",
+        "Киевом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lviv",
+      "country": "ua",
+      "ru": "Львов",
+      "en": "Lviv",
+      "aliases": [
+        "Львова",
+        "Львове",
+        "Львову",
+        "Львів",
+        "Львовом",
+        "Львовы",
+        "Львовой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "odesa",
+      "country": "ua",
+      "ru": "Одесса",
+      "en": "Odesa",
+      "aliases": [
+        "Одессы",
+        "Одессе",
+        "Одессу",
+        "Одессой",
+        "Одеса",
+        "Одессоя",
+        "Одессое",
+        "Одессою",
+        "Одессоем",
+        "Одесы",
+        "Одесе",
+        "Одесу",
+        "Одесой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "minsk",
+      "country": "by",
+      "ru": "Минск",
+      "en": "Minsk",
+      "aliases": [
+        "Минска",
+        "Минске",
+        "Минску",
+        "Минском"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tallinn",
+      "country": "ee",
+      "ru": "Таллин",
+      "en": "Tallinn",
+      "aliases": [
+        "Таллина",
+        "Таллине",
+        "Таллину",
+        "Таллинн",
+        "Таллинна",
+        "Таллинне",
+        "Таллином",
+        "Таллины",
+        "Таллиной",
+        "Таллинну",
+        "Таллинном",
+        "Таллинны",
+        "Таллинной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "riga",
+      "country": "lv",
+      "ru": "Рига",
+      "en": "Riga",
+      "aliases": [
+        "Риги",
+        "Риге",
+        "Ригу",
+        "Ригой",
+        "Ригей",
+        "Ригоя",
+        "Ригое",
+        "Ригою",
+        "Ригоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vilnius",
+      "country": "lt",
+      "ru": "Вильнюс",
+      "en": "Vilnius",
+      "aliases": [
+        "Вильнюса",
+        "Вильнюсе",
+        "Вильнюсу",
+        "Вильнюсом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "warsaw",
+      "country": "pl",
+      "ru": "Варшава",
+      "en": "Warsaw",
+      "aliases": [
+        "Варшавы",
+        "Варшаве",
+        "Варшаву",
+        "Варшавой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "krakow",
+      "country": "pl",
+      "ru": "Краков",
+      "en": "Krakow",
+      "aliases": [
+        "Kraków",
+        "Кракова",
+        "Кракове",
+        "Кракову",
+        "Краковом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "gdansk",
+      "country": "pl",
+      "ru": "Гданьск",
+      "en": "Gdansk",
+      "aliases": [
+        "Гданьска",
+        "Гданьске",
+        "Гданьску",
+        "Гданьском",
+        "Гданьски",
+        "Гданьскей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "berlin",
+      "country": "de",
+      "ru": "Берлин",
+      "en": "Berlin",
+      "aliases": [
+        "Берлина",
+        "Берлине",
+        "Берлину",
+        "Берлином"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "munich",
+      "country": "de",
+      "ru": "Мюнхен",
+      "en": "Munich",
+      "aliases": [
+        "Мюнхена",
+        "Мюнхене",
+        "Мюнхену",
+        "Мюнхеном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hamburg",
+      "country": "de",
+      "ru": "Гамбург",
+      "en": "Hamburg",
+      "aliases": [
+        "Гамбурга",
+        "Гамбурге",
+        "Гамбургу",
+        "Гамбургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "frankfurt",
+      "country": "de",
+      "ru": "Франкфурт",
+      "en": "Frankfurt",
+      "aliases": [
+        "Франкфурта",
+        "Франкфурте",
+        "Франкфурту",
+        "Франкфуртом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cologne",
+      "country": "de",
+      "ru": "Кёльн",
+      "en": "Cologne",
+      "aliases": [
+        "Кельн",
+        "Кёльна",
+        "Кёльне",
+        "Кельна",
+        "Кельне",
+        "Кёльну",
+        "Кёльном",
+        "Кельну",
+        "Кельном",
+        "Кёльны",
+        "Кёльной",
+        "Кельны",
+        "Кельной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "dresden",
+      "country": "de",
+      "ru": "Дрезден",
+      "en": "Dresden",
+      "aliases": [
+        "Дрездена",
+        "Дрездене",
+        "Дрездену",
+        "Дрезденом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "prague",
+      "country": "cz",
+      "ru": "Прага",
+      "en": "Prague",
+      "aliases": [
+        "Праги",
+        "Праге",
+        "Прагу",
+        "Прагей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "karlovy",
+      "country": "cz",
+      "ru": "Карловы Вары",
+      "en": "Karlovy Vary",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bratislava",
+      "country": "sk",
+      "ru": "Братислава",
+      "en": "Bratislava",
+      "aliases": [
+        "Братиславы",
+        "Братиславе",
+        "Братиславу",
+        "Братиславой",
+        "Братиславоя",
+        "Братиславое",
+        "Братиславою",
+        "Братиславоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vienna",
+      "country": "at",
+      "ru": "Вена",
+      "en": "Vienna",
+      "aliases": [
+        "Вены",
+        "Вене",
+        "Вену",
+        "Веной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "salzburg",
+      "country": "at",
+      "ru": "Зальцбург",
+      "en": "Salzburg",
+      "aliases": [
+        "Зальцбурга",
+        "Зальцбурге",
+        "Зальцбургу",
+        "Зальцбургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "zurich",
+      "country": "ch",
+      "ru": "Цюрих",
+      "en": "Zurich",
+      "aliases": [
+        "Цюриха",
+        "Цюрихе",
+        "Цюриху",
+        "Цюрихом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "geneva",
+      "country": "ch",
+      "ru": "Женева",
+      "en": "Geneva",
+      "aliases": [
+        "Женевы",
+        "Женеве",
+        "Женеву",
+        "Женевой",
+        "Женевоя",
+        "Женевое",
+        "Женевою",
+        "Женевоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "paris",
+      "country": "fr",
+      "ru": "Париж",
+      "en": "Paris",
+      "aliases": [
+        "Парижа",
+        "Париже",
+        "Парижу",
+        "Парижем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nice",
+      "country": "fr",
+      "ru": "Ницца",
+      "en": "Nice",
+      "aliases": [
+        "Ниццы",
+        "Ницце",
+        "Ниццу",
+        "Ниццей"
+      ],
+      "caseAliases": [],
+      "enSensitive": true
+    },
+    {
+      "id": "lyon",
+      "country": "fr",
+      "ru": "Лион",
+      "en": "Lyon",
+      "aliases": [
+        "Лиона",
+        "Лионе",
+        "Лиону",
+        "Лионом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "marseille",
+      "country": "fr",
+      "ru": "Марсель",
+      "en": "Marseille",
+      "aliases": [
+        "Марселя",
+        "Марселе",
+        "Марселю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bordeaux",
+      "country": "fr",
+      "ru": "Бордо",
+      "en": "Bordeaux",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "strasbourg",
+      "country": "fr",
+      "ru": "Страсбург",
+      "en": "Strasbourg",
+      "aliases": [
+        "Страсбурга",
+        "Страсбурге",
+        "Страсбургу",
+        "Страсбургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cannes",
+      "country": "fr",
+      "ru": "Канны",
+      "en": "Cannes",
+      "aliases": [
+        "Каннах",
+        "Канн"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "madrid",
+      "country": "es",
+      "ru": "Мадрид",
+      "en": "Madrid",
+      "aliases": [
+        "Мадрида",
+        "Мадриде",
+        "Мадриду",
+        "Мадридом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "barcelona",
+      "country": "es",
+      "ru": "Барселона",
+      "en": "Barcelona",
+      "aliases": [
+        "Барселоны",
+        "Барселоне",
+        "Барселону",
+        "Барселоной",
+        "Барселоноя",
+        "Барселоное",
+        "Барселоною",
+        "Барселоноем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "seville",
+      "country": "es",
+      "ru": "Севилья",
+      "en": "Seville",
+      "aliases": [
+        "Севильи",
+        "Севилье",
+        "Севилью",
+        "Севильей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "valencia",
+      "country": "es",
+      "ru": "Валенсия",
+      "en": "Valencia",
+      "aliases": [
+        "Валенсии",
+        "Валенсию",
+        "Валенсией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "malaga",
+      "country": "es",
+      "ru": "Малага",
+      "en": "Malaga",
+      "aliases": [
+        "Малаги",
+        "Малаге",
+        "Малагу",
+        "Малагой",
+        "Малагей",
+        "Малагоя",
+        "Малагое",
+        "Малагою",
+        "Малагоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bilbao",
+      "country": "es",
+      "ru": "Бильбао",
+      "en": "Bilbao",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "granada",
+      "country": "es",
+      "ru": "Гранада",
+      "en": "Granada",
+      "aliases": [
+        "Гранады",
+        "Гранаде",
+        "Гранаду",
+        "Гранадой",
+        "Гранадоя",
+        "Гранадое",
+        "Гранадою",
+        "Гранадоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "rome",
+      "country": "it",
+      "ru": "Рим",
+      "en": "Rome",
+      "aliases": [
+        "Roma",
+        "Рима",
+        "Риме",
+        "Риму",
+        "Римом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "milan",
+      "country": "it",
+      "ru": "Милан",
+      "en": "Milan",
+      "aliases": [
+        "Milano",
+        "Милана",
+        "Милане",
+        "Милану",
+        "Миланом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "venice",
+      "country": "it",
+      "ru": "Венеция",
+      "en": "Venice",
+      "aliases": [
+        "Venezia",
+        "Венеции",
+        "Венецию",
+        "Венецией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "florence",
+      "country": "it",
+      "ru": "Флоренция",
+      "en": "Florence",
+      "aliases": [
+        "Firenze",
+        "Флоренции",
+        "Флоренцию",
+        "Флоренцией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "naples",
+      "country": "it",
+      "ru": "Неаполь",
+      "en": "Naples",
+      "aliases": [
+        "Неаполя",
+        "Неаполе",
+        "Неаполю",
+        "Napoli"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "turin",
+      "country": "it",
+      "ru": "Турин",
+      "en": "Turin",
+      "aliases": [
+        "Torino",
+        "Турина",
+        "Турине",
+        "Турину",
+        "Турином"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bologna",
+      "country": "it",
+      "ru": "Болонья",
+      "en": "Bologna",
+      "aliases": [
+        "Болоньи",
+        "Болонье",
+        "Болонью",
+        "Болоньей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "genoa",
+      "country": "it",
+      "ru": "Генуя",
+      "en": "Genoa",
+      "aliases": [
+        "Генуи",
+        "Генуе",
+        "Геную",
+        "Генуей",
+        "Genova"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "amalfi",
+      "country": "it",
+      "ru": "Амальфи",
+      "en": "Amalfi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "positano",
+      "country": "it",
+      "ru": "Позитано",
+      "en": "Positano",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "como",
+      "country": "it",
+      "ru": "Комо",
+      "en": "Como",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sicily",
+      "country": "it",
+      "ru": "Сицилия",
+      "en": "Sicily",
+      "aliases": [
+        "Сицилии",
+        "Сицилию",
+        "Сицилией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "palermo",
+      "country": "it",
+      "ru": "Палермо",
+      "en": "Palermo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sardinia",
+      "country": "it",
+      "ru": "Сардиния",
+      "en": "Sardinia",
+      "aliases": [
+        "Сардинии",
+        "Сардинию",
+        "Сардинией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lisbon",
+      "country": "pt",
+      "ru": "Лиссабон",
+      "en": "Lisbon",
+      "aliases": [
+        "Lisboa",
+        "Лиссабона",
+        "Лиссабоне",
+        "Лиссабону",
+        "Лиссабоном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "porto",
+      "country": "pt",
+      "ru": "Порту",
+      "en": "Porto",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "amsterdam",
+      "country": "nl",
+      "ru": "Амстердам",
+      "en": "Amsterdam",
+      "aliases": [
+        "Амстердама",
+        "Амстердаме",
+        "Амстердаму",
+        "Амстердамом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "rotterdam",
+      "country": "nl",
+      "ru": "Роттердам",
+      "en": "Rotterdam",
+      "aliases": [
+        "Роттердама",
+        "Роттердаме",
+        "Роттердаму",
+        "Роттердамом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "brussels",
+      "country": "be",
+      "ru": "Брюссель",
+      "en": "Brussels",
+      "aliases": [
+        "Брюсселя",
+        "Брюсселе",
+        "Брюсселю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bruges",
+      "country": "be",
+      "ru": "Брюгге",
+      "en": "Bruges",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "antwerp",
+      "country": "be",
+      "ru": "Антверпен",
+      "en": "Antwerp",
+      "aliases": [
+        "Антверпена",
+        "Антверпене",
+        "Антверпену",
+        "Антверпеном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "luxembourg-city",
+      "country": "lu",
+      "ru": "Люксембург",
+      "en": "Luxembourg City",
+      "aliases": [
+        "Люксембурга",
+        "Люксембурге",
+        "Люксембургу",
+        "Люксембургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "london",
+      "country": "gb",
+      "ru": "Лондон",
+      "en": "London",
+      "aliases": [
+        "Лондона",
+        "Лондоне",
+        "Лондону",
+        "Лондоном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "edinburgh",
+      "country": "gb",
+      "ru": "Эдинбург",
+      "en": "Edinburgh",
+      "aliases": [
+        "Эдинбурга",
+        "Эдинбурге",
+        "Эдинбургу",
+        "Эдинбургом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "manchester",
+      "country": "gb",
+      "ru": "Манчестер",
+      "en": "Manchester",
+      "aliases": [
+        "Манчестера",
+        "Манчестере",
+        "Манчестеру",
+        "Манчестером"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "liverpool",
+      "country": "gb",
+      "ru": "Ливерпуль",
+      "en": "Liverpool",
+      "aliases": [
+        "Ливерпуля",
+        "Ливерпуле",
+        "Ливерпулю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "dublin",
+      "country": "ie",
+      "ru": "Дублин",
+      "en": "Dublin",
+      "aliases": [
+        "Дублина",
+        "Дублине",
+        "Дублину",
+        "Дублином"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "reykjavik",
+      "country": "is",
+      "ru": "Рейкьявик",
+      "en": "Reykjavik",
+      "aliases": [
+        "Рейкьявика",
+        "Рейкьявике",
+        "Рейкьявику",
+        "Рейкьявиком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "oslo",
+      "country": "no",
+      "ru": "Осло",
+      "en": "Oslo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bergen",
+      "country": "no",
+      "ru": "Берген",
+      "en": "Bergen",
+      "aliases": [
+        "Бергена",
+        "Бергене",
+        "Бергену",
+        "Бергеном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "stockholm",
+      "country": "se",
+      "ru": "Стокгольм",
+      "en": "Stockholm",
+      "aliases": [
+        "Стокгольма",
+        "Стокгольме",
+        "Стокгольму",
+        "Стокгольмом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "gothenburg",
+      "country": "se",
+      "ru": "Гётеборг",
+      "en": "Gothenburg",
+      "aliases": [
+        "Гетеборг",
+        "Гётеборга",
+        "Гётеборге",
+        "Гётеборгу",
+        "Гётеборгом",
+        "Гетеборга",
+        "Гетеборге",
+        "Гетеборгу",
+        "Гетеборгом",
+        "Гётеборги",
+        "Гётеборгей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "copenhagen",
+      "country": "dk",
+      "ru": "Копенгаген",
+      "en": "Copenhagen",
+      "aliases": [
+        "Копенгагена",
+        "Копенгагене",
+        "Копенгагену",
+        "Копенгагеном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "helsinki",
+      "country": "fi",
+      "ru": "Хельсинки",
+      "en": "Helsinki",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "athens",
+      "country": "gr",
+      "ru": "Афины",
+      "en": "Athens",
+      "aliases": [
+        "Афинах",
+        "Афин"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "santorini",
+      "country": "gr",
+      "ru": "Санторини",
+      "en": "Santorini",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "crete",
+      "country": "gr",
+      "ru": "Крит",
+      "en": "Crete",
+      "aliases": [
+        "Крита",
+        "Крите",
+        "Криту",
+        "Критом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "rhodes",
+      "country": "gr",
+      "ru": "Родос",
+      "en": "Rhodes",
+      "aliases": [
+        "Родоса",
+        "Родосе",
+        "Родосу",
+        "Родосом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mykonos",
+      "country": "gr",
+      "ru": "Миконос",
+      "en": "Mykonos",
+      "aliases": [
+        "Миконоса",
+        "Миконосе",
+        "Миконосу",
+        "Миконосом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "thessaloniki",
+      "country": "gr",
+      "ru": "Салоники",
+      "en": "Thessaloniki",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "zagreb",
+      "country": "hr",
+      "ru": "Загреб",
+      "en": "Zagreb",
+      "aliases": [
+        "Загреба",
+        "Загребе",
+        "Загребу",
+        "Загребом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "split",
+      "country": "hr",
+      "ru": "Сплит",
+      "en": "Split",
+      "aliases": [
+        "Сплита",
+        "Сплите",
+        "Сплиту",
+        "Сплитом"
+      ],
+      "caseAliases": [],
+      "enSensitive": true
+    },
+    {
+      "id": "dubrovnik",
+      "country": "hr",
+      "ru": "Дубровник",
+      "en": "Dubrovnik",
+      "aliases": [
+        "Дубровника",
+        "Дубровнике",
+        "Дубровнику",
+        "Дубровником"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "budva",
+      "country": "me",
+      "ru": "Будва",
+      "en": "Budva",
+      "aliases": [
+        "Будвы",
+        "Будве",
+        "Будву",
+        "Будвой",
+        "Будвоя",
+        "Будвое",
+        "Будвою",
+        "Будвоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kotor",
+      "country": "me",
+      "ru": "Котор",
+      "en": "Kotor",
+      "aliases": [
+        "Котора",
+        "Которе",
+        "Котору",
+        "Котором"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "belgrade",
+      "country": "rs",
+      "ru": "Белград",
+      "en": "Belgrade",
+      "aliases": [
+        "Белграда",
+        "Белграде",
+        "Белграду",
+        "Белградом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ljubljana",
+      "country": "si",
+      "ru": "Любляна",
+      "en": "Ljubljana",
+      "aliases": [
+        "Любляны",
+        "Любляне",
+        "Любляну",
+        "Любляной",
+        "Любляноя",
+        "Любляное",
+        "Любляною",
+        "Любляноем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sarajevo",
+      "country": "ba",
+      "ru": "Сараево",
+      "en": "Sarajevo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tirana",
+      "country": "al",
+      "ru": "Тирана",
+      "en": "Tirana",
+      "aliases": [
+        "Тираны",
+        "Тиране",
+        "Тирану",
+        "Тираной",
+        "Тираноя",
+        "Тираное",
+        "Тираною",
+        "Тираноем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sofia",
+      "country": "bg",
+      "ru": "София",
+      "en": "Sofia",
+      "aliases": [
+        "Софии",
+        "Софию",
+        "Софией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bucharest",
+      "country": "ro",
+      "ru": "Бухарест",
+      "en": "Bucharest",
+      "aliases": [
+        "Бухареста",
+        "Бухаресте",
+        "Бухаресту",
+        "Бухарестом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "budapest",
+      "country": "hu",
+      "ru": "Будапешт",
+      "en": "Budapest",
+      "aliases": [
+        "Будапешта",
+        "Будапеште",
+        "Будапешту",
+        "Будапештом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "chisinau",
+      "country": "md",
+      "ru": "Кишинёв",
+      "en": "Chisinau",
+      "aliases": [
+        "Кишинев",
+        "Кишинёва",
+        "Кишинёве",
+        "Кишинева",
+        "Кишиневе",
+        "Кишинёву",
+        "Кишинёвом",
+        "Кишиневу",
+        "Кишиневом",
+        "Кишинёвы",
+        "Кишинёвой",
+        "Кишиневы",
+        "Кишиневой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nicosia",
+      "country": "cy",
+      "ru": "Никосия",
+      "en": "Nicosia",
+      "aliases": [
+        "Никосии",
+        "Никосию",
+        "Никосией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "limassol",
+      "country": "cy",
+      "ru": "Лимассол",
+      "en": "Limassol",
+      "aliases": [
+        "Лимассола",
+        "Лимассоле",
+        "Лимассолу",
+        "Лимассолом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "valletta",
+      "country": "mt",
+      "ru": "Валлетта",
+      "en": "Valletta",
+      "aliases": [
+        "Валлетты",
+        "Валлетте",
+        "Валлетту",
+        "Валлеттой",
+        "Валлеттоя",
+        "Валлеттое",
+        "Валлеттою",
+        "Валлеттоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "monaco",
+      "country": "mc",
+      "ru": "Монако",
+      "en": "Monaco",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "andorra",
+      "country": "ad",
+      "ru": "Андорра-ла-Велья",
+      "en": "Andorra la Vella",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "istanbul",
+      "country": "tr",
+      "ru": "Стамбул",
+      "en": "Istanbul",
+      "aliases": [
+        "İstanbul",
+        "İstanbula",
+        "Стамбула",
+        "Стамбуле",
+        "Стамбулу",
+        "Стамбулом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ankara",
+      "country": "tr",
+      "ru": "Анкара",
+      "en": "Ankara",
+      "aliases": [
+        "Анкары",
+        "Анкаре",
+        "Анкару",
+        "Анкарой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "izmir",
+      "country": "tr",
+      "ru": "Измир",
+      "en": "Izmir",
+      "aliases": [
+        "İzmir",
+        "Измира",
+        "Измире",
+        "Измиру",
+        "Измиром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "antalya",
+      "country": "tr",
+      "ru": "Анталья",
+      "en": "Antalya",
+      "aliases": [
+        "Антальи",
+        "Анталье",
+        "Анталью",
+        "Антальей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cappadocia",
+      "country": "tr",
+      "ru": "Каппадокия",
+      "en": "Cappadocia",
+      "aliases": [
+        "Kapadokya",
+        "Каппадокии",
+        "Каппадокию",
+        "Каппадокией"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "goreme",
+      "country": "tr",
+      "ru": "Гёреме",
+      "en": "Goreme",
+      "aliases": [
+        "Гереме",
+        "Göreme"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bodrum",
+      "country": "tr",
+      "ru": "Бодрум",
+      "en": "Bodrum",
+      "aliases": [
+        "Бодрума",
+        "Бодруме",
+        "Бодруму",
+        "Бодрумом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "fethiye",
+      "country": "tr",
+      "ru": "Фетхие",
+      "en": "Fethiye",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "alanya",
+      "country": "tr",
+      "ru": "Аланья",
+      "en": "Alanya",
+      "aliases": [
+        "Аланьи",
+        "Аланье",
+        "Аланью",
+        "Аланьей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "marmaris",
+      "country": "tr",
+      "ru": "Мармарис",
+      "en": "Marmaris",
+      "aliases": [
+        "Мармариса",
+        "Мармарисе",
+        "Мармарису",
+        "Мармарисом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "trabzon",
+      "country": "tr",
+      "ru": "Трабзон",
+      "en": "Trabzon",
+      "aliases": [
+        "Трабзона",
+        "Трабзоне",
+        "Трабзону",
+        "Трабзоном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bursa",
+      "country": "tr",
+      "ru": "Бурса",
+      "en": "Bursa",
+      "aliases": [
+        "Бурсы",
+        "Бурсе",
+        "Бурсу",
+        "Бурсой",
+        "Бурсоя",
+        "Бурсое",
+        "Бурсою",
+        "Бурсоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "eskisehir",
+      "country": "tr",
+      "ru": "Эскишехир",
+      "en": "Eskisehir",
+      "aliases": [
+        "Eskişehir",
+        "Эскишехира",
+        "Эскишехире",
+        "Эскишехиру",
+        "Эскишехиром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kusadasi",
+      "country": "tr",
+      "ru": "Кушадасы",
+      "en": "Kusadasi",
+      "aliases": [
+        "Kuşadası"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cesme",
+      "country": "tr",
+      "ru": "Чешме",
+      "en": "Cesme",
+      "aliases": [
+        "Çeşme"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pamukkale",
+      "country": "tr",
+      "ru": "Памуккале",
+      "en": "Pamukkale",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ephesus",
+      "country": "tr",
+      "ru": "Эфес",
+      "en": "Ephesus",
+      "aliases": [
+        "Efes",
+        "Эфеса",
+        "Эфесе",
+        "Эфесу",
+        "Эфесом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "side",
+      "country": "tr",
+      "ru": "Сиде",
+      "en": "Side",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": true
+    },
+    {
+      "id": "belek",
+      "country": "tr",
+      "ru": "Белек",
+      "en": "Belek",
+      "aliases": [
+        "Белека",
+        "Белеке",
+        "Белеку",
+        "Белеком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kemer",
+      "country": "tr",
+      "ru": "Кемер",
+      "en": "Kemer",
+      "aliases": [
+        "Кемера",
+        "Кемере",
+        "Кемеру",
+        "Кемером"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "oludeniz",
+      "country": "tr",
+      "ru": "Улудениз",
+      "en": "Oludeniz",
+      "aliases": [
+        "Ölüdeniz",
+        "Улудениза",
+        "Улуденизе",
+        "Улуденизу",
+        "Улуденизом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tbilisi",
+      "country": "ge",
+      "ru": "Тбилиси",
+      "en": "Tbilisi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "batumi",
+      "country": "ge",
+      "ru": "Батуми",
+      "en": "Batumi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kutaisi",
+      "country": "ge",
+      "ru": "Кутаиси",
+      "en": "Kutaisi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "yerevan",
+      "country": "am",
+      "ru": "Ереван",
+      "en": "Yerevan",
+      "aliases": [
+        "Еревана",
+        "Ереване",
+        "Еревану",
+        "Ереваном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "baku",
+      "country": "az",
+      "ru": "Баку",
+      "en": "Baku",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "almaty",
+      "country": "kz",
+      "ru": "Алматы",
+      "en": "Almaty",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "astana",
+      "country": "kz",
+      "ru": "Астана",
+      "en": "Astana",
+      "aliases": [
+        "Нур-Султан",
+        "Nur-Sultan",
+        "Астаны",
+        "Астане",
+        "Астану",
+        "Астаной",
+        "Нур-Султана",
+        "Нур-Султане",
+        "Нур-Султану",
+        "Нур-Султаном",
+        "Астаноя",
+        "Астаное",
+        "Астаною",
+        "Астаноем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tashkent",
+      "country": "uz",
+      "ru": "Ташкент",
+      "en": "Tashkent",
+      "aliases": [
+        "Ташкента",
+        "Ташкенте",
+        "Ташкенту",
+        "Ташкентом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "samarkand",
+      "country": "uz",
+      "ru": "Самарканд",
+      "en": "Samarkand",
+      "aliases": [
+        "Самарканда",
+        "Самарканде",
+        "Самарканду",
+        "Самаркандом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bukhara",
+      "country": "uz",
+      "ru": "Бухара",
+      "en": "Bukhara",
+      "aliases": [
+        "Бухары",
+        "Бухаре",
+        "Бухару",
+        "Бухарой",
+        "Бухароя",
+        "Бухарое",
+        "Бухарою",
+        "Бухароем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bishkek",
+      "country": "kg",
+      "ru": "Бишкек",
+      "en": "Bishkek",
+      "aliases": [
+        "Бишкека",
+        "Бишкеке",
+        "Бишкеку",
+        "Бишкеком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "beijing",
+      "country": "cn",
+      "ru": "Пекин",
+      "en": "Beijing",
+      "aliases": [
+        "Пекина",
+        "Пекине",
+        "Пекину",
+        "Пекином"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "shanghai",
+      "country": "cn",
+      "ru": "Шанхай",
+      "en": "Shanghai",
+      "aliases": [
+        "Шанхая",
+        "Шанхае",
+        "Шанхаю",
+        "Шанхаем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "guangzhou",
+      "country": "cn",
+      "ru": "Гуанчжоу",
+      "en": "Guangzhou",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "shenzhen",
+      "country": "cn",
+      "ru": "Шэньчжэнь",
+      "en": "Shenzhen",
+      "aliases": [
+        "Шэньчжэня",
+        "Шэньчжэне",
+        "Шэньчжэню"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "chengdu",
+      "country": "cn",
+      "ru": "Чэнду",
+      "en": "Chengdu",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "xian",
+      "country": "cn",
+      "ru": "Сиань",
+      "en": "Xi'an",
+      "aliases": [
+        "Сианя",
+        "Сиане",
+        "Сианю",
+        "Xian"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "guilin",
+      "country": "cn",
+      "ru": "Гуйлинь",
+      "en": "Guilin",
+      "aliases": [
+        "Гуйлиня",
+        "Гуйлине",
+        "Гуйлиню"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hongkong",
+      "country": "cn",
+      "ru": "Гонконг",
+      "en": "Hong Kong",
+      "aliases": [
+        "Гонконга",
+        "Гонконге",
+        "Гонконгу",
+        "Гонконгом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "macau",
+      "country": "cn",
+      "ru": "Макао",
+      "en": "Macau",
+      "aliases": [
+        "Макау",
+        "Macao"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "taipei",
+      "country": "tw",
+      "ru": "Тайбэй",
+      "en": "Taipei",
+      "aliases": [
+        "Тайбэя",
+        "Тайбэе",
+        "Тайпея",
+        "Тайпее",
+        "Тайбэю",
+        "Тайбэем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tokyo",
+      "country": "jp",
+      "ru": "Токио",
+      "en": "Tokyo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kyoto",
+      "country": "jp",
+      "ru": "Киото",
+      "en": "Kyoto",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "osaka",
+      "country": "jp",
+      "ru": "Осака",
+      "en": "Osaka",
+      "aliases": [
+        "Осаки",
+        "Осаке",
+        "Осаку",
+        "Осакей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nara",
+      "country": "jp",
+      "ru": "Нара",
+      "en": "Nara",
+      "aliases": [
+        "Нары",
+        "Наре",
+        "Нару",
+        "Нарой"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sapporo",
+      "country": "jp",
+      "ru": "Саппоро",
+      "en": "Sapporo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "yokohama",
+      "country": "jp",
+      "ru": "Йокогама",
+      "en": "Yokohama",
+      "aliases": [
+        "Йокогамы",
+        "Йокогаме",
+        "Йокогаму",
+        "Йокогамой",
+        "Йокогамоя",
+        "Йокогамое",
+        "Йокогамою",
+        "Йокогамоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "seoul",
+      "country": "kr",
+      "ru": "Сеул",
+      "en": "Seoul",
+      "aliases": [
+        "Сеула",
+        "Сеуле",
+        "Сеулу",
+        "Сеулом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "busan",
+      "country": "kr",
+      "ru": "Пусан",
+      "en": "Busan",
+      "aliases": [
+        "Пусана",
+        "Пусане",
+        "Пусану",
+        "Пусаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bangkok",
+      "country": "th",
+      "ru": "Бангкок",
+      "en": "Bangkok",
+      "aliases": [
+        "Бангкока",
+        "Бангкоке",
+        "Бангкоку",
+        "Бангкоком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "phuket",
+      "country": "th",
+      "ru": "Пхукет",
+      "en": "Phuket",
+      "aliases": [
+        "Пхукета",
+        "Пхукете",
+        "Пхукету",
+        "Пхукетом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "chiangmai",
+      "country": "th",
+      "ru": "Чиангмай",
+      "en": "Chiang Mai",
+      "aliases": [
+        "Чиангмая",
+        "Чиангмае",
+        "Чиангмаю",
+        "Чиангмаем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "pattaya",
+      "country": "th",
+      "ru": "Паттайя",
+      "en": "Pattaya",
+      "aliases": [
+        "Паттайи",
+        "Паттайе",
+        "Паттайю",
+        "Паттайей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "samui",
+      "country": "th",
+      "ru": "Самуи",
+      "en": "Samui",
+      "aliases": [
+        "Koh Samui",
+        "Ко Самуи"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "krabi",
+      "country": "th",
+      "ru": "Краби",
+      "en": "Krabi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hanoi",
+      "country": "vn",
+      "ru": "Ханой",
+      "en": "Hanoi",
+      "aliases": [
+        "Ханоя",
+        "Ханое",
+        "Ханою",
+        "Ханоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hochiminh",
+      "country": "vn",
+      "ru": "Хошимин",
+      "en": "Ho Chi Minh City",
+      "aliases": [
+        "Сайгон",
+        "Сайгона",
+        "Сайгоне",
+        "Saigon",
+        "Хошимина",
+        "Хошимине",
+        "Хошимину",
+        "Хошимином",
+        "Сайгону",
+        "Сайгоном",
+        "Сайгоны",
+        "Сайгоной"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "danang",
+      "country": "vn",
+      "ru": "Дананг",
+      "en": "Da Nang",
+      "aliases": [
+        "Дананга",
+        "Дананге",
+        "Данангу",
+        "Данангом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hoian",
+      "country": "vn",
+      "ru": "Хойан",
+      "en": "Hoi An",
+      "aliases": [
+        "Хойана",
+        "Хойане",
+        "Хойану",
+        "Хойаном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nhatrang",
+      "country": "vn",
+      "ru": "Нячанг",
+      "en": "Nha Trang",
+      "aliases": [
+        "Нячанга",
+        "Нячанге",
+        "Нячангу",
+        "Нячангом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "singapore",
+      "country": "sg",
+      "ru": "Сингапур",
+      "en": "Singapore",
+      "aliases": [
+        "Сингапура",
+        "Сингапуре",
+        "Сингапуру",
+        "Сингапуром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kualalumpur",
+      "country": "my",
+      "ru": "Куала-Лумпур",
+      "en": "Kuala Lumpur",
+      "aliases": [
+        "Куала-Лумпура",
+        "Куала-Лумпуре",
+        "Куала-Лумпуру",
+        "Куала-Лумпуром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "penang",
+      "country": "my",
+      "ru": "Пенанг",
+      "en": "Penang",
+      "aliases": [
+        "Пенанга",
+        "Пенанге",
+        "Пенангу",
+        "Пенангом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "bali",
+      "country": "id",
+      "ru": "Бали",
+      "en": "Bali",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jakarta",
+      "country": "id",
+      "ru": "Джакарта",
+      "en": "Jakarta",
+      "aliases": [
+        "Джакарты",
+        "Джакарте",
+        "Джакарту",
+        "Джакартой",
+        "Джакартоя",
+        "Джакартое",
+        "Джакартою",
+        "Джакартоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "ubud",
+      "country": "id",
+      "ru": "Убуд",
+      "en": "Ubud",
+      "aliases": [
+        "Убуда",
+        "Убуде",
+        "Убуду",
+        "Убудом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "seminyak",
+      "country": "id",
+      "ru": "Семиньяк",
+      "en": "Seminyak",
+      "aliases": [
+        "Семиньяка",
+        "Семиньяке",
+        "Семиньяку",
+        "Семиньяком"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "manila",
+      "country": "ph",
+      "ru": "Манила",
+      "en": "Manila",
+      "aliases": [
+        "Манилы",
+        "Маниле",
+        "Манилу",
+        "Манилой",
+        "Манилоя",
+        "Манилое",
+        "Манилою",
+        "Манилоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cebu",
+      "country": "ph",
+      "ru": "Себу",
+      "en": "Cebu",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "phnompenh",
+      "country": "kh",
+      "ru": "Пномпень",
+      "en": "Phnom Penh",
+      "aliases": [
+        "Пномпеня",
+        "Пномпене"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "siemreap",
+      "country": "kh",
+      "ru": "Сиемреап",
+      "en": "Siem Reap",
+      "aliases": [
+        "Сиемреапа",
+        "Сиемреапе",
+        "Сиемреапу",
+        "Сиемреапом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "delhi",
+      "country": "in",
+      "ru": "Дели",
+      "en": "Delhi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mumbai",
+      "country": "in",
+      "ru": "Мумбаи",
+      "en": "Mumbai",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "goa",
+      "country": "in",
+      "ru": "Гоа",
+      "en": "Goa",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jaipur",
+      "country": "in",
+      "ru": "Джайпур",
+      "en": "Jaipur",
+      "aliases": [
+        "Джайпура",
+        "Джайпуре",
+        "Джайпуру",
+        "Джайпуром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "agra",
+      "country": "in",
+      "ru": "Агра",
+      "en": "Agra",
+      "aliases": [
+        "Агры",
+        "Агре",
+        "Агру",
+        "Агрой",
+        "Агроя",
+        "Агрое",
+        "Агрою",
+        "Агроем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "colombo",
+      "country": "lk",
+      "ru": "Коломбо",
+      "en": "Colombo",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "kathmandu",
+      "country": "np",
+      "ru": "Катманду",
+      "en": "Kathmandu",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "male",
+      "country": "mv",
+      "ru": "Мале",
+      "en": "Male",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "dubai",
+      "country": "ae",
+      "ru": "Дубай",
+      "en": "Dubai",
+      "aliases": [
+        "Дубая",
+        "Дубае",
+        "Дубаю",
+        "Дубаем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "abudhabi",
+      "country": "ae",
+      "ru": "Абу-Даби",
+      "en": "Abu Dhabi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sharjah",
+      "country": "ae",
+      "ru": "Шарджа",
+      "en": "Sharjah",
+      "aliases": [
+        "Шарджи",
+        "Шардже",
+        "Шарджу",
+        "Шарджой",
+        "Шарджей",
+        "Шарджоя",
+        "Шарджое",
+        "Шарджою",
+        "Шарджоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "doha",
+      "country": "qa",
+      "ru": "Доха",
+      "en": "Doha",
+      "aliases": [
+        "Дохи",
+        "Дохе",
+        "Доху",
+        "Дохой",
+        "Дохей",
+        "Дохоя",
+        "Дохое",
+        "Дохою",
+        "Дохоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "riyadh",
+      "country": "sa",
+      "ru": "Эр-Рияд",
+      "en": "Riyadh",
+      "aliases": [
+        "Эр-Рияда",
+        "Эр-Рияде",
+        "Эр-Рияду",
+        "Эр-Риядом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jeddah",
+      "country": "sa",
+      "ru": "Джидда",
+      "en": "Jeddah",
+      "aliases": [
+        "Джидды",
+        "Джидде",
+        "Джидду",
+        "Джиддой",
+        "Джиддоя",
+        "Джиддое",
+        "Джиддою",
+        "Джиддоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "muscat",
+      "country": "om",
+      "ru": "Мускат",
+      "en": "Muscat",
+      "aliases": [
+        "Муската",
+        "Мускате",
+        "Мускату",
+        "Мускатом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "telaviv",
+      "country": "il",
+      "ru": "Тель-Авив",
+      "en": "Tel Aviv",
+      "aliases": [
+        "Тель-Авива",
+        "Тель-Авиве",
+        "Тель-Авиву",
+        "Тель-Авивом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "jerusalem",
+      "country": "il",
+      "ru": "Иерусалим",
+      "en": "Jerusalem",
+      "aliases": [
+        "Иерусалима",
+        "Иерусалиме",
+        "Иерусалиму",
+        "Иерусалимом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "amman",
+      "country": "jo",
+      "ru": "Амман",
+      "en": "Amman",
+      "aliases": [
+        "Аммана",
+        "Аммане",
+        "Амману",
+        "Амманом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cairo",
+      "country": "eg",
+      "ru": "Каир",
+      "en": "Cairo",
+      "aliases": [
+        "Каира",
+        "Каире",
+        "Каиру",
+        "Каиром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "hurghada",
+      "country": "eg",
+      "ru": "Хургада",
+      "en": "Hurghada",
+      "aliases": [
+        "Хургады",
+        "Хургаде",
+        "Хургаду",
+        "Хургадой",
+        "Хургадоя",
+        "Хургадое",
+        "Хургадою",
+        "Хургадоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sharm",
+      "country": "eg",
+      "ru": "Шарм-эш-Шейх",
+      "en": "Sharm el-Sheikh",
+      "aliases": [
+        "Шарм-эль-Шейх",
+        "Шарм-эш-Шейха",
+        "Шарм-эш-Шейхе",
+        "Шарм-эш-Шейху",
+        "Шарм-эш-Шейхом",
+        "Шарм-эль-Шейха",
+        "Шарм-эль-Шейхе",
+        "Шарм-эль-Шейху",
+        "Шарм-эль-Шейхом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "marrakesh",
+      "country": "ma",
+      "ru": "Марракеш",
+      "en": "Marrakesh",
+      "aliases": [
+        "Марракеша",
+        "Марракеше",
+        "Marrakech",
+        "Марракешу",
+        "Марракешем",
+        "Марракеши",
+        "Марракешей"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "casablanca",
+      "country": "ma",
+      "ru": "Касабланка",
+      "en": "Casablanca",
+      "aliases": [
+        "Касабланки",
+        "Касабланке",
+        "Касабланку",
+        "Касабланкой",
+        "Касабланкей",
+        "Касабланкоя",
+        "Касабланкое",
+        "Касабланкою",
+        "Касабланкоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "tunis",
+      "country": "tn",
+      "ru": "Тунис",
+      "en": "Tunis",
+      "aliases": [
+        "Туниса",
+        "Тунисе",
+        "Тунису",
+        "Тунисом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cape-town",
+      "country": "za",
+      "ru": "Кейптаун",
+      "en": "Cape Town",
+      "aliases": [
+        "Кейптауна",
+        "Кейптауне",
+        "Кейптауну",
+        "Кейптауном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nairobi",
+      "country": "ke",
+      "ru": "Найроби",
+      "en": "Nairobi",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "zanzibar",
+      "country": "tz",
+      "ru": "Занзибар",
+      "en": "Zanzibar",
+      "aliases": [
+        "Занзибара",
+        "Занзибаре",
+        "Занзибару",
+        "Занзибаром"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mauritius-city",
+      "country": "mu",
+      "ru": "Маврикий",
+      "en": "Mauritius",
+      "aliases": [
+        "Маврикия",
+        "Маврикие",
+        "Маврикию",
+        "Маврикием"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "nyc",
+      "country": "us",
+      "ru": "Нью-Йорк",
+      "en": "New York",
+      "aliases": [
+        "New York City",
+        "Нью-Йорка",
+        "Нью-Йорке",
+        "Нью-Йорку",
+        "Нью-Йорком"
+      ],
+      "caseAliases": [
+        "NYC"
+      ],
+      "enSensitive": false
+    },
+    {
+      "id": "la",
+      "country": "us",
+      "ru": "Лос-Анджелес",
+      "en": "Los Angeles",
+      "aliases": [
+        "Лос-Анджелеса",
+        "Лос-Анджелесе",
+        "Лос-Анджелесу",
+        "Лос-Анджелесом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sf",
+      "country": "us",
+      "ru": "Сан-Франциско",
+      "en": "San Francisco",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "chicago",
+      "country": "us",
+      "ru": "Чикаго",
+      "en": "Chicago",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "miami",
+      "country": "us",
+      "ru": "Майами",
+      "en": "Miami",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vegas",
+      "country": "us",
+      "ru": "Лас-Вегас",
+      "en": "Las Vegas",
+      "aliases": [
+        "Лас-Вегаса",
+        "Лас-Вегасе",
+        "Лас-Вегасу",
+        "Лас-Вегасом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "boston",
+      "country": "us",
+      "ru": "Бостон",
+      "en": "Boston",
+      "aliases": [
+        "Бостона",
+        "Бостоне",
+        "Бостону",
+        "Бостоном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "washington",
+      "country": "us",
+      "ru": "Вашингтон",
+      "en": "Washington",
+      "aliases": [
+        "Вашингтона",
+        "Вашингтоне",
+        "Вашингтону",
+        "Вашингтоном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "seattle",
+      "country": "us",
+      "ru": "Сиэтл",
+      "en": "Seattle",
+      "aliases": [
+        "Сиэтла",
+        "Сиэтле",
+        "Сиэтлу",
+        "Сиэтлом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "toronto",
+      "country": "ca",
+      "ru": "Торонто",
+      "en": "Toronto",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "vancouver",
+      "country": "ca",
+      "ru": "Ванкувер",
+      "en": "Vancouver",
+      "aliases": [
+        "Ванкувера",
+        "Ванкувере",
+        "Ванкуверу",
+        "Ванкувером"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "montreal",
+      "country": "ca",
+      "ru": "Монреаль",
+      "en": "Montreal",
+      "aliases": [
+        "Монреаля",
+        "Монреале",
+        "Монреалю"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "mexicocity",
+      "country": "mx",
+      "ru": "Мехико",
+      "en": "Mexico City",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "cancun",
+      "country": "mx",
+      "ru": "Канкун",
+      "en": "Cancun",
+      "aliases": [
+        "Канкуна",
+        "Канкуне",
+        "Канкуну",
+        "Канкуном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "buenosaires",
+      "country": "ar",
+      "ru": "Буэнос-Айрес",
+      "en": "Buenos Aires",
+      "aliases": [
+        "Буэнос-Айреса",
+        "Буэнос-Айресе",
+        "Буэнос-Айресу",
+        "Буэнос-Айресом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "rio",
+      "country": "br",
+      "ru": "Рио-де-Жанейро",
+      "en": "Rio de Janeiro",
+      "aliases": [
+        "Рио",
+        "Rio"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "saopaulo",
+      "country": "br",
+      "ru": "Сан-Паулу",
+      "en": "Sao Paulo",
+      "aliases": [
+        "São Paulo"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "lima",
+      "country": "pe",
+      "ru": "Лима",
+      "en": "Lima",
+      "aliases": [
+        "Лимы",
+        "Лиме",
+        "Лиму",
+        "Лимой",
+        "Лимоя",
+        "Лимое",
+        "Лимою",
+        "Лимоем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "santiago",
+      "country": "cl",
+      "ru": "Сантьяго",
+      "en": "Santiago",
+      "aliases": [],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "havana",
+      "country": "cu",
+      "ru": "Гавана",
+      "en": "Havana",
+      "aliases": [
+        "Гаваны",
+        "Гаване",
+        "Гавану",
+        "Гаваной",
+        "Гаваноя",
+        "Гаваное",
+        "Гаваною",
+        "Гаваноем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "sydney",
+      "country": "au",
+      "ru": "Сидней",
+      "en": "Sydney",
+      "aliases": [
+        "Сиднея",
+        "Сиднее",
+        "Сиднею",
+        "Сиднеем"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "melbourne",
+      "country": "au",
+      "ru": "Мельбурн",
+      "en": "Melbourne",
+      "aliases": [
+        "Мельбурна",
+        "Мельбурне",
+        "Мельбурну",
+        "Мельбурном"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    },
+    {
+      "id": "auckland",
+      "country": "nz",
+      "ru": "Окленд",
+      "en": "Auckland",
+      "aliases": [
+        "Окленда",
+        "Окленде",
+        "Окленду",
+        "Оклендом"
+      ],
+      "caseAliases": [],
+      "enSensitive": false
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+/* English. Used when the phone language is English. */
+"tab.collection" = "Collection";
+"tab.review" = "Review";
+"tab.unparsed" = "Couldn't parse";
+"tab.settings" = "Settings";
+
+"collection.empty.title" = "Nothing here yet";
+"collection.empty.body" = "In Instagram tap Share and choose Saves Sorter. The link stays on this iPhone and is filed by country and city.";
+"collection.pending" = "Waiting to parse: %d";
+"collection.processing" = "Reading captions…";
+"collection.withoutCity" = "No city";
+"collection.subtitle" = "Cities: %d · Visit: %d · Buy: %d";
+"collection.lexiconMissing" = "The country list failed to load. Automatic sorting is off; you can still file items by hand.";
+
+"country.exportVisits" = "CSV of all places";
+"country.subtitle" = "Visit: %d · Buy: %d";
+
+"city.visit" = "Places to visit";
+"city.buy" = "Things to buy";
+"city.empty.visit" = "No places in this city yet.";
+"city.empty.buy" = "Nothing to buy in this city yet.";
+"city.copy" = "Copy names";
+"city.export" = "CSV for Google My Maps";
+"city.add" = "Add";
+"city.copied" = "Copied";
+
+"entry.open" = "Open post";
+"entry.maps" = "Open in Google Maps";
+"entry.copy" = "Copy name";
+"entry.delete" = "Delete";
+"entry.edit" = "Edit";
+"entry.deletePost" = "Delete post";
+"entry.shop" = "Where: %@";
+
+"review.confirm" = "Confirm";
+"review.edit" = "Edit";
+"review.needsCity" = "Add a city so this item can join that city's list.";
+"review.tag" = "needs review";
+"review.empty" = "Nothing to review.";
+
+"unparsed.empty" = "Everything was parsed.";
+"unparsed.retry" = "Retry";
+"unparsed.retryAll" = "Retry all";
+"unparsed.manual" = "File manually";
+"unparsed.open" = "Open link";
+
+"failure.network" = "The page could not be downloaded.";
+"failure.unavailable" = "The post is unavailable or deleted.";
+"failure.empty" = "The caption is empty.";
+"failure.nothing" = "The caption had no places or things to buy.";
+"failure.video" = "The list seems to exist only in the video or behind a profile link.";
+"failure.blocked" = "The page was not returned. Try again later.";
+"failure.detail" = "Details: %@";
+
+"search.prompt" = "Country, city, place, purchase";
+"search.empty" = "No matches";
+"search.visits" = "Places to visit";
+"search.buys" = "Things to buy";
+"search.unparsed" = "Couldn't parse";
+
+"settings.ai" = "AI sorting";
+"settings.ai.toggle" = "Ask a model";
+"settings.ai.note" = "Off by default. The key stays in the Keychain on this device and is sent only to the provider you pick, together with the caption.";
+"settings.ai.provider" = "Provider";
+"settings.ai.openai" = "OpenAI";
+"settings.ai.anthropic" = "Anthropic";
+"settings.ai.model" = "Model";
+"settings.ai.key" = "API key";
+"settings.ai.save" = "Save key";
+"settings.ai.delete" = "Delete key";
+"settings.ai.saved" = "Key is saved on this device";
+"settings.ai.missing" = "No key yet";
+"settings.ai.error" = "Last AI error: %@";
+
+"settings.data" = "Data";
+"settings.exportJSON" = "Export JSON";
+"settings.importJSON" = "Import JSON";
+"settings.exportVisits" = "CSV of all places";
+"settings.exportBuys" = "CSV of all purchases";
+"settings.importChoice" = "How should the backup be imported?";
+"settings.replace" = "Replace the collection";
+"settings.merge" = "Add to the current one";
+"settings.importFailed" = "The file could not be read";
+
+"settings.help" = "How to use";
+"settings.help.body" = "1. Build the app on your iPhone and sign both targets with the same team.\n2. In Instagram open a saved post and tap Share.\n3. Choose Saves Sorter. If it is missing, tap More and turn the app on.\n4. Open Saves Sorter: country → city → Places to visit or Things to buy.\n5. Uncertain items go to Review. Empty and broken links go to Couldn't parse.";
+
+"settings.limits" = "Limits";
+"settings.limits.body" = "The tagged location and words inside a video are not available: only the page caption is used. Cover-image links expire quickly, so the picture is stored on the device when the download works. The rules sometimes guess wrong — that is what Review is for. The site may refuse the page. AI is optional and stays off until you paste a key.";
+
+"settings.diag" = "Signing";
+"settings.bundle" = "Identifier: %@";
+"settings.group" = "Group: %@";
+"settings.fallback" = "The App Group was not found. The share extension cannot see items. Check the App Groups capability on both targets.";
+"settings.process" = "Parse waiting items";
+"settings.pending" = "Waiting: %d";
+
+"editor.title.new" = "New item";
+"editor.title.edit" = "Item";
+"editor.kind" = "Type";
+"editor.name" = "Name";
+"editor.shop" = "Shop";
+"editor.country" = "Country";
+"editor.city" = "City";
+"editor.note" = "Note";
+"editor.save" = "Save";
+"editor.caption" = "Caption";
+"editor.name.placeholder" = "Place or what to buy";
+"editor.shop.placeholder" = "Shop name";
+"editor.country.placeholder" = "For example, Turkey";
+"editor.city.placeholder" = "For example, Istanbul";
+
+"without.footer" = "These items have no city. Set one and they will show up under that country.";
+
+"share.done" = "Done";
+"share.none" = "This is not a post or reel link.";
+"share.saved" = "Saved. Reading the caption…";
+"share.duplicate" = "Already in the collection.";
+"share.finished" = "Done. Open Saves Sorter.";
+"share.working" = "Saving…";
+
+"common.cancel" = "Cancel";
+"common.close" = "Close";
+"common.more" = "More";
